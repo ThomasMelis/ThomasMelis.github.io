@@ -7,6 +7,11 @@ p {
     color: black;
     width: 500px;
 }
+.pArtikel{
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    width: 1000px;
+}
 
 .ol_lijsten {}
 
