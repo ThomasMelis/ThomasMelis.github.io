@@ -132,6 +132,16 @@ h2 {
 }
 
 
+h3 {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-left: 0px;
+    margin-top: 0px;
+    text-align: center;
+    display: flex;
+}
+
 a {
     color: white;
 }
